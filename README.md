@@ -13,11 +13,11 @@
 
 2. 进入bin目录下，在此文件下打开命令行，执行`node -v`,若出现版本号则说明node包没问题
 
-[执行命令后img1]()
+![执行命令后img1](https://github.com/snowyYU/linus-deploy-FE/raw/master/img/img1.png)
 
 3. 配置软连接，先获取bin文件下node和npm的路径，执行`pwd`
 
-[执行命令后img2]()
+![执行命令后img2](https://github.com/snowyYU/linus-deploy-FE/raw/master/img/img2.png)
 
 4. 再执行
     ```
